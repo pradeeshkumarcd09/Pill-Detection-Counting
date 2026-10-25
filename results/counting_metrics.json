@@ -1,0 +1,15 @@
+{
+  "validation_images": 23,
+  "confidence_0.25": {
+    "mean_absolute_counting_error": 0.8695652173913043,
+    "exact_count_rate": 0.391304347826087,
+    "exact_count_images": 9
+  },
+  "confidence_0.60": {
+    "mean_absolute_counting_error": 0.43478260869565216,
+    "exact_count_rate": 0.6521739130434783,
+    "exact_count_images": 15
+  },
+  "selected_candidate_confidence_threshold": 0.6,
+  "note": "Small validation set; threshold requires further testing."
+}
